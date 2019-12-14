@@ -1,16 +1,6 @@
 # PyDamas
 Jogo de damas em linha de comando feito em python 2.7. Pequeno projeto realizado durante a disciplina de programação 1 do curso superior em Análise e Desenvolvimento de SIstemas.
 
- #############################################################################
-  # ||||||\  \ \    / / ||||||\    / ____  \ |  \    /  |  / ____  \  /  ___| #
-  # |||   \\\ \ \  / /  |||   \\\ | |    | | |   \  /   | | |    | | | /      #
-  # |||__ ///  \ \/ /   |||   ||| | |____| | | |\ \/ /| | | |____| | \ \____  #
-  # |||||///    |  |    |||   ||| |  ____  | | | \__/ | | |  ____  |  \___  \ #
-  # |||         |  |    |||__///  | |    | | | |      | | | |    | |  ____| | #
-  # |||         |  |    |||||//   | |    | | | |      | | | |    | | |_____/  #
-  #############################################################################
-
-
 =================================# PyDamas #========================================
 
 Projeto de Programação 1
@@ -46,7 +36,7 @@ quantas casas quiser. A dama não pode saltar uma peça da mesma cor.
 * A peça captura a dama e a dama captura a peça. Pedra e dama têm o mesmo valor
 para capturarem ou serem capturadas.
 
-* A dama podem capturar tanto para frente como para trás, apenas uma peça por vez.
+* As damas podem capturar tanto para frente como para trás, apenas uma peça por vez.
 
 * A peça não pode capturar para trás 
 
