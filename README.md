@@ -15,7 +15,6 @@ ser obrigatória e o fato de, se a peça passar pela ultima fileira,
 será promovida a Dama e continuará a jogada já como Dama.
 
 
-
 *(Regras oficiais do PyDamas)=> O jogo de damas pratica-se entre dois jogadores,
 num tabuleiro quadrado, de 64 casas alternadamente claras e escuras, dispondo
 de 12 peças brancas e 12 pretas.
