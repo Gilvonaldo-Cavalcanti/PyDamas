@@ -7,7 +7,6 @@ Projeto de Programação 1
 Sob Orientação: Prof. Henrique do Nascimento Cunha
 Desenvolvido por: Gilvonaldo Alves da Silva Cavalcanti
 
-
 * Com relação as Regras
  As regras são baseadas nas regras de damas russas (Damas russas
 as alterações com relação as regras oficiais, são o fato de a tomada não 
